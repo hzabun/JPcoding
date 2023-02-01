@@ -1,0 +1,620 @@
+[
+  {
+    "kanji": "一",
+    "reading": "いち",
+    "meaning": "one; one radical (no.1)",
+    "examples": "一つ,ひとつ,counter for one\n一人,ひとり,one person\n一番,いちばん,first/best/most"
+  },
+  {
+    "kanji": "七",
+    "reading": "なな",
+    "meaning": "seven",
+    "examples": "七つ,ななつ,counter for seven"
+  },
+  {
+    "kanji": "万",
+    "reading": "まん",
+    "meaning": "10,000; ten thousand",
+    "examples": "十万,じゅうまん,100,000"
+  },
+  {
+    "kanji": "三",
+    "reading": "さん",
+    "meaning": "three",
+    "examples": "三つ,みっつ,counter for three"
+  },
+  {
+    "kanji": "上",
+    "reading": "うえ",
+    "meaning": "above; up",
+    "examples": "上げる,あげる,to raise/to elevate/to increase\n上手,じょうず,skillful/proficient/good\n上着,うわぎ,coat/tunic/jacket/outer garment"
+  },
+  {
+    "kanji": "下",
+    "reading": "した",
+    "meaning": "below; descend; inferior; low",
+    "examples": "地下鉄,ちかてつ,subway\n廊下,ろうか,corridor/hallway\n靴下,くつした,socks"
+  },
+  {
+    "kanji": "中",
+    "reading": "なか",
+    "meaning": "center; in; inside; middle",
+    "examples": "中国,ちゅうごく,China"
+  },
+  {
+    "kanji": "九",
+    "reading": "きゅう",
+    "meaning": "nine",
+    "examples": "九つ,ここのつ,counter for nine"
+  },
+  {
+    "kanji": "二",
+    "reading": "に",
+    "meaning": "two; two radical (no. 7)",
+    "examples": "二つ,ふたつ,counter for two\n二人,ふたり,two people/pair/couple"
+  },
+  {
+    "kanji": "五",
+    "reading": "ご",
+    "meaning": "five",
+    "examples": "五つ,いつつ,counter for five"
+  },
+  {
+    "kanji": "人",
+    "reading": "ひと",
+    "meaning": "person",
+    "examples": "一人,ひとり,one person\n二人,ふたり,two people/pair/couple\n外国人,がいこくじん,foreigner/foreign citizen"
+  },
+  {
+    "kanji": "今",
+    "reading": "いま",
+    "meaning": "now",
+    "examples": "今年,ことし,this year\n今晩,こんばん,tonight\n今月,こんげつ,this month"
+  },
+  {
+    "kanji": "休",
+    "reading": "",
+    "meaning": "day off; rest; retire",
+    "examples": "休み,やすみ,rest/vacation/holiday\n休む,やすむ,to take a day off/to rest/to have a break\n夏休,なつやすみ,summer vacation"
+  },
+  {
+    "kanji": "会",
+    "reading": "",
+    "meaning": "association; join; meet; meeting",
+    "examples": "会う,あう,to meet\n会社,かいしゃ,company"
+  },
+  {
+    "kanji": "何",
+    "reading": "なに",
+    "meaning": "what",
+    "examples": "何の料理,なんのりょうり,What kind of food"
+  },
+  {
+    "kanji": "先",
+    "reading": "さき",
+    "meaning": "ahead; before; future; previous",
+    "examples": "先月,せんげつ,last month\n先生,せんせい,teacher/doctor\n先週,せんしゅう,last week"
+  },
+  {
+    "kanji": "入",
+    "reading": "",
+    "meaning": "enter; insert",
+    "examples": "入れる,いれる,to put in/to insert\n入る,はいる,to enter/to go into/to join/to enroll\n入口,いりぐち,entrance/entry"
+  },
+  {
+    "kanji": "八",
+    "reading": "はち",
+    "meaning": "eight; eight radical (no. 12)",
+    "examples": "八つ,やっつ,counter for eight"
+  },
+  {
+    "kanji": "六",
+    "reading": "ろく",
+    "meaning": "six",
+    "examples": "六つ,むっつ,counter for six"
+  },
+  {
+    "kanji": "円",
+    "reading": "えん",
+    "meaning": "circle; round; yen",
+    "examples": "十円,じゅうえん,10 yen"
+  },
+  {
+    "kanji": "出",
+    "reading": "",
+    "meaning": "come out; exit; go out; leave; protrude; put out",
+    "examples": "出す,だす,to take out/to get out/to submit/to send\n出かける,でかける,to go out/to set out\n出る,でる,to leave/to exit/to go out;\n出口,でぐち,exit\n出来る,できる to be able to do"
+  },
+  {
+    "kanji": "分",
+    "reading": "",
+    "meaning": "degree; know; understand; minute of time; part",
+    "examples": "分かる,わかる,to understand/to comprehend\n半分,はんぶん,half\n多分,たぶん,perhaps/probably\n自分,じぶん,myself/oneself\n～分,ぶん,minutes/counter for minutes"
+  },
+  {
+    "kanji": "前",
+    "reading": "まえ",
+    "meaning": "before; in front",
+    "examples": "午前,ごぜん,morning/a.m.\n名前,なまえ,name/given name/first name"
+  },
+  {
+    "kanji": "北",
+    "reading": "きた",
+    "meaning": "north",
+    "examples": "北,きた,north"
+  },
+  {
+    "kanji": "十",
+    "reading": "じゅう",
+    "meaning": "ten",
+    "examples": "十個,じゅっこ,10 small objects"
+  },
+  {
+    "kanji": "千",
+    "reading": "せん",
+    "meaning": "thousand",
+    "examples": "千,せん,thousand"
+  },
+  {
+    "kanji": "午",
+    "reading": "",
+    "meaning": "11AM-1PM; noon; seventh sign of Chinese zodiac; sign of the horse",
+    "examples": "午前,ごぜん,morning/a.m.\n午後,ごご,afternoon/p.m."
+  },
+  {
+    "kanji": "半",
+    "reading": "はん",
+    "meaning": "half; middle; odd number; part-; semi-",
+    "examples": "半分,はんぶん,half"
+  },
+  {
+    "kanji": "南",
+    "reading": "みなみ",
+    "meaning": "south",
+    "examples": "南,みなみ,south"
+  },
+  {
+    "kanji": "友",
+    "reading": "とも",
+    "meaning": "friend",
+    "examples": "友達,ともだち,friend/companion"
+  },
+  {
+    "kanji": "口",
+    "reading": "くち",
+    "meaning": "mouth",
+    "examples": "入口,いりぐち,entrance/entry\n出口,でぐち,exit"
+  },
+  {
+    "kanji": "古",
+    "reading": "",
+    "meaning": "old",
+    "examples": "古い,ふるい,old/aged/stale"
+  },
+  {
+    "kanji": "右",
+    "reading": "みぎ",
+    "meaning": "right",
+    "examples": "右,みぎ,right"
+  },
+  {
+    "kanji": "名",
+    "reading": "な",
+    "meaning": "name",
+    "examples": "名前,なまえ,name/given name/first name\n有名,ゆうめい,famous"
+  },
+  {
+    "kanji": "四",
+    "reading": "よん",
+    "meaning": "four",
+    "examples": "四つ,よっつ,counter for four"
+  },
+  {
+    "kanji": "国",
+    "reading": "くに",
+    "meaning": "country",
+    "examples": "外国,がいこく,foreign country\n外国人,がいこくじん,foreigner/foreign citizen"
+  },
+  {
+    "kanji": "土",
+    "reading": "つち",
+    "meaning": "earth; ground; soil",
+    "examples": "土曜日,どようび,Saturday"
+  },
+  {
+    "kanji": "外",
+    "reading": "そと",
+    "meaning": "outside",
+    "examples": "外国,がいこく,foreign country\n外国人,がいこくじん,foreigner/foreign citizen"
+  },
+  {
+    "kanji": "多",
+    "reading": "",
+    "meaning": "frequent; many; much",
+    "examples": "多分,たぶん,perhaps/probably"
+  },
+  {
+    "kanji": "大",
+    "reading": "",
+    "meaning": "big; large",
+    "examples": "大丈夫,だいじょうぶ,safe/all right/alright/OK\n大使館,たいしかん,embassy\n大切,たいせつ,important/necessary\n大勢,おおぜい,many people\n大学,だいがく,university/college"
+  },
+  {
+    "kanji": "天",
+    "reading": "",
+    "meaning": "heaven; imperial; sky",
+    "examples": "天気,てんき,weather"
+  },
+  {
+    "kanji": "女",
+    "reading": "おんな",
+    "meaning": "female; woman",
+    "examples": "女の子,おんなのこ,girl/young woman"
+  },
+  {
+    "kanji": "子",
+    "reading": "こ",
+    "meaning": " child",
+    "examples": "女の子,おんなのこ,girl/young woman\n子供,こども,child/children\n帽子,ぼうし,hat\n男の子,おとこのこ,boy"
+  },
+  {
+    "kanji": "学",
+    "reading": "",
+    "meaning": "learning; science; study",
+    "examples": "大学,だいがく,university/college\n学校,がっこう,school\n留学生,りゅうがくせい,exchange student"
+  },
+  {
+    "kanji": "安",
+    "reading": "",
+    "meaning": "cheap; contented; low; peaceful; quiet; relax; rested",
+    "examples": "安い,やすい,cheap/inexpensive"
+  },
+  {
+    "kanji": "小",
+    "reading": "",
+    "meaning": "little; small",
+    "examples": "小さい,ちいさい,small/little/tiny\n小さな,ちいさな,small/little/tiny"
+  },
+  {
+    "kanji": "少",
+    "reading": "",
+    "meaning": "few; little",
+    "examples": "少ない,すくない,few/a little\n少し,すこし,small quantity/little/few"
+  },
+  {
+    "kanji": "山",
+    "reading": "やま",
+    "meaning": "mountain",
+    "examples": "富士山,ふじさん,Mount Fuji"
+  },
+  {
+    "kanji": "川",
+    "reading": "かわ",
+    "meaning": "river",
+    "examples": "川,かわ,river"
+  },
+  {
+    "kanji": "左",
+    "reading": "ひだり",
+    "meaning": "left",
+    "examples": "左,ひだり,left"
+  },
+  {
+    "kanji": "年",
+    "reading": "ねん",
+    "meaning": "year",
+    "examples": "今年,ことし,this year\n再来年,さらいねん,year after next\n毎年,まいとし,every year/annually\n～年,ねん,year/counter for years"
+  },
+  {
+    "kanji": "店",
+    "reading": "みせ",
+    "meaning": "shop; store",
+    "examples": "喫茶店,きっさてん,coffee shop/cafe"
+  },
+  {
+    "kanji": "後",
+    "reading": "あと",
+    "meaning": "back; behind; later",
+    "examples": "午後,ごご,afternoon/p.m.\n後ろ,うしろ,back/behind/rear"
+  },
+  {
+    "kanji": "手",
+    "reading": "て",
+    "meaning": "hand",
+    "examples": "上手,じょうず,skillful/proficient/good\n下手,へた,unskillful/poor/awkward\n切手,きって,stamp\n手紙,てがみ,letter\nお手洗い,てあらい,toilet/restroom"
+  },
+  {
+    "kanji": "新",
+    "reading": "",
+    "meaning": "new",
+    "examples": "新しい,あたらしい,new\n新聞,しんぶん,newspaper"
+  },
+  {
+    "kanji": "日",
+    "reading": "ひ",
+    "meaning": "counter for days; day; Japan; sun",
+    "examples": "土曜日,どようび,Saturday\n日曜日,にちようび,Sunday"
+  },
+  {
+    "kanji": "時",
+    "reading": "とき",
+    "meaning": "hour; time",
+    "examples": "時々,ときどき,sometimes\n～時間,じかん,period of hours"
+  },
+  {
+    "kanji": "書",
+    "reading": "",
+    "meaning": "write",
+    "examples": "図書館,としょかん,library\n辞書,じしょ,dictionary"
+  },
+  {
+    "kanji": "月",
+    "reading": "つき",
+    "meaning": "month; moon",
+    "examples": "一月,いちがつ,January\n今月,こんげつ,this month\n先月,せんげつ,last month\n月曜日,げつようび,Monday\n毎月,まいつき,every month"
+  },
+  {
+    "kanji": "木",
+    "reading": "き",
+    "meaning": "tree; wood",
+    "examples": "木曜日,もくようび,Thursday"
+  },
+  {
+    "kanji": "本",
+    "reading": "ほん",
+    "meaning": "book; counter for long cylindrical things; origin; real; true",
+    "examples": "本当,ほんとう,truth/reality/actuality\n本棚,ほんだな,bookshelvese"
+  },
+  {
+    "kanji": "来",
+    "reading": "",
+    "meaning": "become; cause; come; due; next",
+    "examples": "来る,くる,to come/to approach\n来月,らいげつ,next month\n来週,らいしゅう,next week"
+  },
+  {
+    "kanji": "東",
+    "reading": "ひがし",
+    "meaning": "east",
+    "examples": "東,ひがし,east"
+  },
+  {
+    "kanji": "校",
+    "reading": "",
+    "meaning": "correction; exam; printing; proof; school",
+    "examples": "学校,がっこう,school"
+  },
+  {
+    "kanji": "母",
+    "reading": "はは",
+    "meaning": "mother",
+    "examples": "お母さん,おかあさん mother"
+  },
+  {
+    "kanji": "毎",
+    "reading": "",
+    "meaning": "every",
+    "examples": "毎年,まいとし,every year/annually\n毎日,まいにち,every day\n毎晩,まいばん,every night"
+  },
+  {
+    "kanji": "気",
+    "reading": "き",
+    "meaning": "air; atmosphere; mind; mood; spirit",
+    "examples": "元気,げんき,healthy/well/lively\n天気,てんき,weather\n病気,びょうき,illness/disease"
+  },
+  {
+    "kanji": "水",
+    "reading": "みず",
+    "meaning": "water",
+    "examples": "水曜日,すいようび,Wednesday"
+  },
+  {
+    "kanji": "火",
+    "reading": "ひ",
+    "meaning": "fire",
+    "examples": "火曜日,かようび,Tuesday"
+  },
+  {
+    "kanji": "父",
+    "reading": "ちち",
+    "meaning": "father",
+    "examples": "お父さん,おとうさん,father"
+  },
+  {
+    "kanji": "生",
+    "reading": "",
+    "meaning": "birth; genuine; life",
+    "examples": "先生,せんせい,teacher/doctor\n生まれる,うまれる,to be born\n生徒,せいと,student\n留学生,りゅうがくせい,exchange student\n誕生,たんじょう,日,び,birthday"
+  },
+  {
+    "kanji": "男",
+    "reading": "おとこ",
+    "meaning": "male",
+    "examples": "男の子,おとこのこ,boy"
+  },
+  {
+    "kanji": "白",
+    "reading": "しろ",
+    "meaning": "white",
+    "examples": "白い,しろい,white\n面白い,おもしろい,interesting/fascinating"
+  },
+  {
+    "kanji": "百",
+    "reading": "ひゃく",
+    "meaning": "hundred",
+    "examples": "百,ひゃく,100"
+  },
+  {
+    "kanji": "目",
+    "reading": "め",
+    "meaning": "eye; favor; insight; look",
+    "examples": "目,め,eye"
+  },
+  {
+    "kanji": "社",
+    "reading": "",
+    "meaning": "association; company; firm",
+    "examples": "会社,かいしゃ,company"
+  },
+  {
+    "kanji": "空",
+    "reading": "そら",
+    "meaning": "empty; sky; vacant; vacuum; void",
+    "examples": "空,そら,sky"
+  },
+  {
+    "kanji": "立",
+    "reading": "",
+    "meaning": "stand up; erect; rise; set up",
+    "examples": "立つ,たつ,to stand/to rise\n立派,りっぱ,splendid/fine"
+  },
+  {
+    "kanji": "耳",
+    "reading": "みみ",
+    "meaning": "ear",
+    "examples": "耳,みみ,ear"
+  },
+  {
+    "kanji": "聞",
+    "reading": "",
+    "meaning": "ask; hear; listen",
+    "examples": "聞く,きく,to hear/to listen/to ask\n新聞,しんぶん,newspaper"
+  },
+  {
+    "kanji": "花",
+    "reading": "はな",
+    "meaning": "flower",
+    "examples": "花瓶,かびん,flower vase"
+  },
+  {
+    "kanji": "行",
+    "reading": "",
+    "meaning": "go; act; carry out; line; row",
+    "examples": "行く,いく,to go/to head towards\n旅行,りょこう,trip\n銀行,ぎんこう,bank\n飛行機,ひこうき,airplane"
+  },
+  {
+    "kanji": "西",
+    "reading": "にし",
+    "meaning": "west",
+    "examples": "西,にし,west"
+  },
+  {
+    "kanji": "見",
+    "reading": "",
+    "meaning": "look at; opinion; see; visible",
+    "examples": "見せる,みせる to show/to display\n見る,みる,to see/to look"
+  },
+  {
+    "kanji": "言",
+    "reading": "",
+    "meaning": "say; word",
+    "examples": "言う,いう,to say/to utter\n言葉,ことば,word/phrase"
+  },
+  {
+    "kanji": "話",
+    "reading": "はなし",
+    "meaning": "tale; talk",
+    "examples": "話す,はなす,to talk/to speak/to converse\n電話,でんわ,phone call/telephone"
+  },
+  {
+    "kanji": "語",
+    "reading": "",
+    "meaning": "language; speech; word",
+    "examples": "英語,えいご,English"
+  },
+  {
+    "kanji": "読",
+    "reading": "",
+    "meaning": "read",
+    "examples": "読む,よむ,to read"
+  },
+  {
+    "kanji": "買",
+    "reading": "",
+    "meaning": "buy",
+    "examples": "買う,かう,to buy\n買い物,かいもの,shopping/purchased goods"
+  },
+  {
+    "kanji": "足",
+    "reading": "あし",
+    "meaning": "be sufficient; counter for pairs of footwear; foot; leg",
+    "examples": "足,あし,leg"
+  },
+  {
+    "kanji": "車",
+    "reading": "くるま",
+    "meaning": "car",
+    "examples": "自動車,じどうしゃ,automobile\n自転車,じてんしゃ,bicycle\n電車,でんしゃ,train"
+  },
+  {
+    "kanji": "週",
+    "reading": "しゅう",
+    "meaning": "week",
+    "examples": "今週,こんしゅう,this week\n先週,せんしゅう,last week\n来週,らいしゅう,next week\n毎週,まいしゅう,every week\n～週間,しゅうかん,period of weeks"
+  },
+  {
+    "kanji": "道",
+    "reading": "みち",
+    "meaning": "course; district; journey; moral; road-way; street; teachings",
+    "examples": "道,みち,road"
+  },
+  {
+    "kanji": "金",
+    "reading": "かね",
+    "meaning": "gold",
+    "examples": "金曜日,きんようび,Friday\n"
+  },
+  {
+    "kanji": "長",
+    "reading": "",
+    "meaning": "leader; long; senior; superior",
+    "examples": "長い,ながい,long"
+  },
+  {
+    "kanji": "間",
+    "reading": "",
+    "meaning": "interval; space",
+    "examples": "時間,じかん,time\n～週間,しゅうかん,period of weeks"
+  },
+  {
+    "kanji": "雨",
+    "reading": "あめ",
+    "meaning": "rain",
+    "examples": "雨,あめ,rain"
+  },
+  {
+    "kanji": "電",
+    "reading": "",
+    "meaning": "electricity",
+    "examples": "電気,でんき, electricity\n電話,でんわ,phone call/telephone\n電車,でんしゃ,train"
+  },
+  {
+    "kanji": "食",
+    "reading": "",
+    "meaning": "eat; food",
+    "examples": "食べる,たべる,to eat\n食べ物,たべもの,food\n食堂,しょくどう,cafeteria"
+  },
+  {
+    "kanji": "飲",
+    "reading": "",
+    "meaning": "drink; smoke; take",
+    "examples": "飲む,のむ,to drink/to swallow/to take medicine\n飲み物,のみもの,drink/beverage"
+  },
+  {
+    "kanji": "駅",
+    "reading": "えき",
+    "meaning": "station",
+    "examples": "駅,えき,train station"
+  },
+  {
+    "kanji": "高",
+    "reading": "",
+    "meaning": "expensive; high; tall",
+    "examples": "高い,たかい,high/tall/expensive\n高校,こうこう,high school"
+  },
+  {
+    "kanji": "魚",
+    "reading": "さかな",
+    "meaning": "fish",
+    "examples": "魚,さかな,fish"
+  }
+]
